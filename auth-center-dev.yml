@@ -27,3 +27,8 @@ wx:
     appsecret: 74e54f145a3b01b44ef15f05e27117dd
 guoqing:
   test: yuheng2
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
