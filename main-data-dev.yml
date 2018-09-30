@@ -28,7 +28,7 @@ security:
 logging:
   file: logs/main-data.log
 guoqing:
-  test: heheda81
+  test: heheda811
 management:
   endpoints:
     web:
