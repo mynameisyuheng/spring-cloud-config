@@ -27,3 +27,10 @@ security:
       serviceId: ${spring.application.name}
 logging:
   file: logs/main-data.log
+guoqing:
+  test: heheda1
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
