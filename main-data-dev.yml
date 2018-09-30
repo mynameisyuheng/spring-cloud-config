@@ -18,7 +18,7 @@ spring:
       password: 'guest'
 # 权限配置
 security:
-  ignored: /css/**,/js/**,/favicon.ico,/webjars/**,/images/**,/hystrix.stream/**,/info,/error,/actuator/**,/env,/metrics,/trace,/dump,/jolokia,/configprops,/activiti,/logfile,/refresh,/flyway,/liquibase,/loggers,/user/phone/**,/role/user/**,/menu/user/*,/client/all
+  ignored: /css/**,/js/**,/favicon.ico,/webjars/**,/images/**,/hystrix.stream/**,/info,/error,/actuator/**,/env,/metrics,/trace,/dump,/jolokia,/configprops,/activiti,/logfile,/refresh,/flyway,/liquibase,/loggers,/user/phone/**,/role/user/**,/menu/user/*,/client/all,/guoqing/test
   oauth2:
     resource:
       jwt:
