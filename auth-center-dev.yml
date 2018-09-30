@@ -1,7 +1,7 @@
 security:
   ignored: /css/**,/js/**,/favicon.ico,/webjars/**,/images/**,/static/**,/hystrix.stream/**,/info,/error,/actuator/**,/env,/metrics,/trace,/dump,/jolokia,/configprops,/activiti,/logfile,/refresh,/flyway,/liquibase,/loggers,/druid/**,/oauth/deleteToken, /backReferer
 server:
-  port: 18001
+  port: 180014
 spring:
   redis:
     database: 0
